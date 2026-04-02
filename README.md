@@ -1,8 +1,3 @@
-**LINK DO FORMULÁRIO**
-
-
-https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=HjuebwkYSkSB04LUCpKIEjfgHeSAretEnwScDONL0xRUMEZaVlFDVTk2VUI2S0FLSTgzRUo1WTNXWS4u
-
 **DESAFIO TÉCNICO - DESENVOLVIMENTO FRONT END / TDS03corp™**
 
 Duração da prova: 60 minutos
@@ -45,7 +40,10 @@ O candidato deve ter como alvo a implementação do máximo dos requisitos abaix
 
 - O candidato deve navegar até a **pasta** onde desenvolveu seu projeto;
 - Gerar um arquivo **comprimido** (em um dos formatos .zip / .rar / .7z);
-- A pasta deve ter **nome e sobrenome** do candidato como seu título (*Não esqueça de **checar se todos os arquivos estão intactos** após a compressão*):
+- Salve o arquivo e *não esqueça de **checar se todos os arquivos estão intactos** após a compressão*:
+- Enviar o arquivo no seguinte formulário, preencha também seu nome e sobrenome para que a equipe técnica possa lhe devolver o feedback: https://forms.cloud.microsoft/r/RfVAwhj5H5
 - Manter o computador **ligado** e sair da sala conforme instruído pelos monitores:
+
+  *feedback será devolvido até o início da semana que vem.*
 
 © 2026 TDS03corp™ LLC Ltd. ®
