@@ -1,67 +1,46 @@
-🏆 Desafio Técnico: Front-End Developer | TDS03corp
+**DESAFIO TÉCNICO - DESENVOLVIMENTO FRONT END / TDS03corp™**
 
-Seja bem-vindo ao processo seletivo da TDS03corp! Este desafio foi projetado para avaliar suas habilidades técnicas, criatividade e capacidade de entrega sob pressão.
-📝 O Cenário
+Duração da prova: 60 minutos
 
-Um grupo de leitores comissionou nossa equipe para o desenvolvimento da página oficial do seu novo Clube do Livro. Sua missão é iniciar o desenvolvimento dessa plataforma, garantindo que o código seja escalável e a interface seja memorável.
-🎯 Objetivo
+**Objetivo:**
 
-Desenvolver uma página web funcional com o tema Clube do Livro.
+Desenvolver uma página web **funcional** a partir do tema ***Clube do Livro***. O candidato deve aplicar neste teste seus conhecimentos técnicos adquiridos ao longo da sua jornada de desenvolvedor, os aplicando para criação de uma base de código **clara** e **escalável**. Esse teste levará em conta a **criatividade** do candidato e a **usabilidade** da página entregue.  O projeto deve ser desenvolvido dentro do prazo estipulado, da melhor forma possível, de acordo com as capacidades do candidato.
 
-    Duração: 60 minutos.
+---
+**Tema do Projeto: Página para um Clube do Livro**
 
-🛠️ Requisitos Técnicos (Checklist)
+Um grupo de leitores comissionou a equipe da TDS03corp™ para o desenvolvimento de uma página que será usada como interface em seu clube do livro. Você candidato, portanto deve **iniciar** o desenvolvimento do que irá se tornar a página oficial desse clube do livro (*os leitores até te deixaram escolher o nome que o clube irá adotar!*).
 
-Para que seu projeto seja considerado válido, você deve implementar o máximo possível dos itens abaixo:
+Pense que além de você, **outros** da TDS03corp™ irão continuar o desenvolvimento do projeto, então preze pela **legibilidade** do seu código! (P.S. isso inclui os **comentários** também...)
 
-    [ ] Multi-páginas: Pelo menos duas páginas com navegação funcional entre elas.
+---
+**Requisitos Técnicos:**
 
-    [ ] Interatividade: No mínimo dois elementos interativos (Ex: efeitos de hover, botões que revelam conteúdo, modais, etc).
+O candidato deve ter como alvo a implementação do máximo dos requisitos abaixo possível dentro do tempo da prova:
+- Estrutura de arquivos **coesa** (por exemplo, imagens dentro da pasta de imagens, CSS em um arquivo separado...);
+- HTML **semântico** (para mais informações busque sobre `<article>` ou `<section>` dentro da documentação de sua escolha);
+- Uso de **variáveis** no CSS quando aplicável, como por exemplo variáveis para paleta de cores dentro do elemento `:root` (para mais informações pesquise sobre `variáveis CSS` e `:root` na sua documentação de escolha);
+- Pelo menos **duas** páginas diferentes;
+- Um elemento que possibilite a **navegação** entre páginas;
+- Ao menos dois elementos **interativos** (seja um botão que revela uma descrição quando clicado, um card que aumenta de tamanho quando o ponteiro passa por cima dele, **o que o seu coração quiser**... contanto que seja interativo e condizente com o tema do clube do livro!);
+- **Comentários** de código que são claros, úteis e coesos (pense, se *você* fosse contratado para trabalhar em uma base de código como essa, quais *comentários* seriam úteis para que você pudesse *rapidamente se habituar* com ela?):
 
-    [ ] HTML Semântico: Uso correto de tags (<article>, <section>, <nav>, <header>, etc).
+---
+**Restrições:**
 
-    [ ] CSS Moderno: Uso obrigatório de Variáveis CSS para a paleta de cores.
+- Uso de código ou design gerado completamente, ou em parte por uma **IA generativa** (isso inclui ChatGPT, Gemini, Perplexity, Claude, Copilot entre muitos outros);
+- Pesquisa sobre questões específicas referentes a programação da página em **motores de busca** como Google ou Bing (isso é devido as respostas geradas por IA que violam a primeira restrição, *pesquisar na aba de imagens por capas de livro, por exemplo, é permitido*);
+- Desenvolvimento **além** do tempo estipulado para prova (isso incluí uso de códigos previamente feitos pelo candidato e falha em obedecer o final da prova, marcado pelo temporizador chegando em 0);
+- Plágio intencional ou uso de modelos já prontos encontrados na internet:
 
-    [ ] Organização: Estrutura de pastas coesa (CSS separado, imagens em pasta própria).
+***Na situação em que alguma dessas restrições sejam violadas, o projeto entregue será desclassificado.***
 
-    [ ] Documentação Interna: Comentários claros, úteis e profissionais no código.
+---
+**Etapas Pós Desenvolvimento:**
 
-🚫 Restrições (Desclassificação Direta)
+- O candidato deve navegar até a **pasta** onde desenvolveu seu projeto;
+- Gerar um arquivo **comprimido** (em um dos formatos .zip / .rar / .7z);
+- A pasta deve ter **nome e sobrenome** do candidato como seu título (*Não esqueça de **checar se todos os arquivos estão intactos** após a compressão*):
+- Manter o computador **ligado** e sair da sala conforme instruído pelos monitores:
 
-    IA Generativa: É proibido o uso de ChatGPT, Gemini, Copilot ou similares para gerar código ou design.
-
-    Plágio: Uso de templates prontos ou cópia de projetos existentes na internet.
-
-    Prazo: Projetos entregues após os 60 minutos não serão avaliados.
-
-📊 Critérios de Avaliação
-
-A equipe técnica da TDS03corp avaliará seu projeto com base nos seguintes pilares:
-
-    Qualidade do Código: Legibilidade, semântica e organização.
-
-    Usabilidade (UX): A interface é intuitiva? O usuário consegue navegar facilmente?
-
-    Criatividade: O design é condizente com o tema e possui um diferencial?
-
-    Capacidade de Entrega: O quanto do desafio foi concluído dentro do tempo estipulado.
-
-📤 Instruções de Entrega
-
-    Ao finalizar, navegue até a pasta raiz do projeto.
-
-    Comprima o diretório no formato .zip, .rar ou .7z.
-
-    Certifique-se de que todos os arquivos necessários (HTML, CSS, Imagens) estão incluídos.
-
-    Atenção: O computador deve permanecer ligado após a entrega.
-
-💡 Informação Adicional
-
-    Nome do Clube: Fica a seu critério. Surpreenda-nos!
-
-    Escalabilidade: Lembre-se que outros desenvolvedores da TDS03corp continuarão seu trabalho. Facilite a vida deles!
-
-Boa sorte, candidato(a)! Que os códigos estejam a seu favor.
-
-© 2026 TDS03corp - Departamento de Talent Acquisition.
+© 2026 TDS03corp™ LLC Ltd. ®
