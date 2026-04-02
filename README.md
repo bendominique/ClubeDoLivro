@@ -41,7 +41,7 @@ O candidato deve ter como alvo a implementação do máximo dos requisitos abaix
 - O candidato deve navegar até a **pasta** onde desenvolveu seu projeto;
 - Gerar um arquivo **comprimido** (em um dos formatos .zip / .rar / .7z);
 - Salve o arquivo e *não esqueça de **checar se todos os arquivos estão intactos** após a compressão*:
-- Enviar o arquivo no seguinte formulário, preencha também seu nome e sobrenome para que a equipe técnica possa lhe devolver o feedback: https://forms.cloud.microsoft/r/RfVAwhj5H5
+- Enviar o arquivo no seguinte formulário, preencha também seu nome e sobrenome para que a equipe técnica possa lhe devolver o feedback: https://docs.google.com/forms/d/e/1FAIpQLSebU8EWA4VhadHERDwv-aLPkItcwUVzYZHlP0nNlr9AdTU_8w/viewform?usp=publish-editor
 - Manter o computador **ligado** e sair da sala conforme instruído pelos monitores:
 
   *feedback será devolvido até o início da semana que vem.*
